@@ -21,3 +21,4 @@ sudo
 ```bash
 PS1="${debian_chroot:+($debian_chroot)}\[\033[01;34m\]\W \[\033[31m\]\$\[\033[00m\] "
 ```
+https://www.vivaolinux.com.br/dica/Customizando-o-BASH
